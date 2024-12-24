@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/chessboard/static/js/main.d3e375ba.js",
+    "index.html": "/chessboard/index.html",
+    "main.d3e375ba.js.map": "/chessboard/static/js/main.d3e375ba.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d3e375ba.js"
+  ]
+}
