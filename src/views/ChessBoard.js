@@ -9,7 +9,7 @@ export default function ChessBoard(props) {
   } = props;
   let rows = Array(rowCount).fill(undefined);
   let columns = Array(colCount).fill(undefined);
-  let boolean = false;
+  let boolean = true;
 
   const constructAttackedIndexes = (i, j) => {
     let indexes = [];
